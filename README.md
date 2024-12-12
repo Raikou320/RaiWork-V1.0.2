@@ -1,3 +1,3 @@
 # RaiWork 1.0.2
-## Diferent
+## Functionalities
   - ### Add differrent Scenes
